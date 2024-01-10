@@ -11,4 +11,3 @@
 ![Screenshot (46)](https://github.com/Hacosta21/Cyber-Honeypot/assets/65152491/6950e726-f8a9-45a9-b4a5-d04e69b07d31)
 ![Screenshot (45)](https://github.com/Hacosta21/Cyber-Honeypot/assets/65152491/1c0905fe-47fb-480f-9ca1-3a6c0bcaf51f)
 ![Screenshot (44)](https://github.com/Hacosta21/Cyber-Honeypot/assets/65152491/eeba8a3c-670c-4443-baf5-b93d73f22bca)
-![Screenshot (43)](https://github.com/Hacosta21/Cyber-Honeypot/assets/65152491/4276de9b-711f-4295-a64d-087148ac7220)
