@@ -1,6 +1,6 @@
 # Simple Cyber-Honeypot
 
-Deployed intentionally vulnerable Azure Cloud VM and used Azure Sentinel SIEM to log all traffic and observe malicious activity.
+Deployed vulnerable Azure cloud VM and used Azure Sentinel SIEM to log all traffic and observe malicious activity.
 
 
 
