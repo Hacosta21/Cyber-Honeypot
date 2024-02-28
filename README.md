@@ -17,4 +17,4 @@ Azure Sentinel is a cloud-native SIEM and Security Orchestration, Automation, an
 
 ![Screenshot (44)](https://github.com/Hacosta21/Cyber-Honeypot/assets/65152491/eeba8a3c-670c-4443-baf5-b93d73f22bca)
 
-Observing failed RDP logs.
+Observed failed RDP logs.
